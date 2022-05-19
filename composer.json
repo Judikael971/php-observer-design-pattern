@@ -1,0 +1,18 @@
+{
+    "name": "judikael/php-observer-design-pattern",
+    "description": "Example PHP Script of Observer design pattern",
+    "autoload": {
+        "psr-4": {
+            "Judikael\\PhpObserverDesignPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "judikael aucagos"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "9.5.20"
+    }
+}
